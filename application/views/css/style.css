@@ -1,0 +1,71 @@
+<style>
+hr{
+  border-color:#aaa;
+  box-sizing:border-box;
+  width:80%;  
+  margin-top: -50px;
+}
+#coluna{
+  padding-left:-80px;
+}
+
+body{
+  margin: auto;
+  font-family: arial;
+}
+
+#slider .container{
+  padding: 0 1px;
+  position: relative;
+
+}
+#slider .slider-inner{
+ width: 270px;
+ 
+ display: inline-block;
+
+}
+.slider-inner .item img{
+  width: 100%;
+  height: 140px;  
+}
+.slider-inner h1{
+  color: purple;  
+}
+.slider{
+ width: 150px;
+ display: inline-block;
+
+}
+.buttonn{
+  margin-top: -100px;
+  margin-left: 1000px;
+}
+.calendar{
+
+}
+.container-fluid{
+  margin-top: 70px;
+  margin-left:1000px ;
+  position: absolute;
+
+
+}
+#Restaurant{
+  margin-top: -460px;
+  font-size: 60px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #000;
+  font-size: 4em;
+  color: white; text-shadow: black 0.1em 0.1em 0.2em
+}
+
+#buttonn{
+  margin-top: -120px;
+}
+
+#maisvendidos{
+  margin-top: 200px;
+}
+
+</style>
