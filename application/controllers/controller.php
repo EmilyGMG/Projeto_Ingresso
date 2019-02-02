@@ -5,7 +5,7 @@ class Controller extends CI_Controller {
 
 	
 	public function index() {
-		$this->load->view('corp/script');
+	$this->load->view('corp/script');
         $this->load->view('corp/navbar');
         $this->load->view('index');
         $this->load->view('corp/footer');
