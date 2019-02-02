@@ -9,7 +9,7 @@ class Controller extends CI_Controller {
         $this->load->view('corp/navbar');
         $this->load->view('index');
         $this->load->view('corp/footer');
- $this->load->view('css/style.css');
+	$this->load->view('css/style.css');
     }
 
     public function reservar() {
